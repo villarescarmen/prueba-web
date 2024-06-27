@@ -1,0 +1,38 @@
+.logo{
+    width: 80px;
+    height: 80px;
+}
+
+.logo-footer{
+    width: 150px;
+    height: 150px;
+}
+
+.img-carrusel{
+    width: auto;
+    height: 700px;
+}
+
+.formu{
+    border: 3px #c6c6cc solid;
+    border-radius: 16px;
+    padding: 15px;
+}
+
+.icono{
+    font-size: 50px;
+    padding: 0px 10px;
+    color: #0a0a50;
+}
+
+.img-icono{
+    width: 50px;
+    height: 50px;
+    
+}
+
+.img-izder {
+    height: 400px;
+    width: auto;
+}
+
